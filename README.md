@@ -1,16 +1,36 @@
-## Hi there 👋
+<table>
+  <tr>
+    <td>
 
-<!--
-**NishanthPragnesh/NishanthPragnesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**🌐 Frontend Development**  
+- 💻 **Building** dynamic and responsive websites  
+- 🎨 **Designing** with HTML, CSS, and JavaScript
+- 📱 **Implementing** mobile-friendly designs 
 
-Here are some ideas to get you started:
+    </td>
+    <td>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**🎨 UI/UX Design**  
+- 🌟 **Crafting** engaging and intuitive interfaces  
+- 🤝 **Collaborating** on creative design projects  
+- 🧠 **Passionate about** UX research and insights  
+
+    </td>
+  </tr>
+  <tr>
+    <td>
+
+**🔧 Backend Technologies**  
+- 🚀 **Exploring** and mastering new frameworks  
+- 📚 **Learning** advanced tools and practices  
+
+    </td>
+    <td>
+
+**📊 Data Analytics**  
+- 📈 **Completed** job simulation tasks  
+- 🔍 **Analyzing** data to drive insights  
+
+    </td>
+  </tr>
+</table>
